@@ -1,2 +1,2 @@
 # RedditClone
-Clone of Reddit. Work in progress, base backend parts of app.
+Discussion forum app base on Reddit, using Spring and mySQL. Work in progress, base backend parts of app.
